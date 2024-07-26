@@ -52,4 +52,4 @@ This project is licensed under [MIT License]. See the LICENSE file in each repos
 
 ## Contact
 
-For more information about Fox LLM or Ekatra, please contact [insert contact information].
+For more information about Fox LLM or Ekatra, please contact [tech@ekatra.one].
