@@ -1,10 +1,10 @@
-# Fox LLM: Education-Focused Large Language Model
+# Socrates LLM: Education-Focused Large Language Model
 
-Fox LLM is an innovative, education-focused large language model developed by Ekatra. It aims to revolutionize personalized learning by leveraging advanced AI techniques and a rich educational dataset.
+Aspasia LLM is an innovative, education-focused large language model developed by Ekatra. It aims to revolutionize personalized learning by leveraging advanced AI techniques and a rich educational dataset.
 
 ## Project Components
 
-Fox LLM is built using several interconnected components, each playing a crucial role in creating a comprehensive, AI-driven educational platform.
+Aspasia LLM is built using several interconnected components, each playing a crucial role in creating a comprehensive, AI-driven educational platform.
 
 ### 1. Video & Audio Transcription Tool
 
@@ -28,7 +28,7 @@ This component allows Fox LLM to run in offline environments, making our educati
 
 ### 4. Course Generator (Alfred)
 
-Alfred is our automated course generation system that uses Fox LLM to create customized lesson plans and content. It integrates with Airtable for efficient data management.
+Alfred is our automated course generation system that uses Aspasia LLM to create customized lesson plans and content. It integrates with Airtable for efficient data management.
 
 [Course Generator (Alfred)](https://github.com/ekatraone/course-on-prompt-v1)
 
@@ -52,4 +52,4 @@ This project is licensed under [MIT License]. See the LICENSE file in each repos
 
 ## Contact
 
-For more information about Fox LLM or Ekatra, please contact [tech@ekatra.one].
+For more information about Aspasia LLM or Ekatra, please contact [tech@ekatra.one].
