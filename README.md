@@ -1,10 +1,10 @@
 # Socrates LLM: Education-Focused Large Language Model
 
-Aspasia LLM is an innovative, education-focused large language model developed by Ekatra. It aims to revolutionize personalized learning by leveraging advanced AI techniques and a rich educational dataset.
+Socrates LLM is an innovative, education-focused large language model developed by Ekatra. It aims to revolutionize personalized learning by leveraging advanced AI techniques and a rich educational dataset.
 
 ## Project Components
 
-Aspasia LLM is built using several interconnected components, each playing a crucial role in creating a comprehensive, AI-driven educational platform.
+Socrates LLM is built using several interconnected components, each playing a crucial role in creating a comprehensive, AI-driven educational platform.
 
 ### 1. Video & Audio Transcription Tool
 
@@ -20,7 +20,7 @@ Our dataset generator creates high-quality, education-specific datasets using te
 
 ### 3. Local LLM
 
-This component allows Fox LLM to run in offline environments, making our educational AI accessible even in areas with limited internet connectivity.
+This component allows Socrates LLM to run in offline environments, making our educational AI accessible even in areas with limited internet connectivity.
 
 [Local LLM Project](https://github.com/ekatraone/local_llm)
 
@@ -52,4 +52,4 @@ This project is licensed under [MIT License]. See the LICENSE file in each repos
 
 ## Contact
 
-For more information about Aspasia LLM or Ekatra, please contact [tech@ekatra.one].
+For more information about Socrates LLM or Ekatra, please contact [tech@ekatra.one].
