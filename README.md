@@ -28,7 +28,7 @@ This component allows Socrates LLM to run in offline environments, making our ed
 
 ### 4. Course Generator (Alfred)
 
-Alfred is our automated course generation system that uses Aspasia LLM to create customized lesson plans and content. It integrates with Airtable for efficient data management.
+Alfred is our automated course generation system that uses Socrates LLM to create customized lesson plans and content. It integrates with Airtable for efficient data management.
 
 [Course Generator (Alfred)](https://github.com/ekatraone/course-on-prompt-v1)
 
@@ -40,11 +40,11 @@ Our WhatsApp bot serves as the user interface for delivering micro-lessons, maki
 
 ## Getting Started
 
-To get started with Fox LLM and its components, please refer to the individual repositories linked above. Each repository contains specific instructions for setup and usage.
+To get started with Socrates LLM and its components, please refer to the individual repositories linked above. Each repository contains specific instructions for setup and usage.
 
 ## Contributing
 
-We welcome contributions to any of the Fox LLM components. Please refer to the CONTRIBUTING.md file in each repository for guidelines on how to contribute.
+We welcome contributions to any of the Socrates LLM components. Please refer to the CONTRIBUTING.md file in each repository for guidelines on how to contribute.
 
 ## License
 
